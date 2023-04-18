@@ -1,0 +1,1 @@
+# go-scan-thai-card
